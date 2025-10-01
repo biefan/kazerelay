@@ -4,7 +4,7 @@
 专属 OBS 工具包：  
 👉 [立即下载](https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip)
 
-## 1. 主程序下载  
+## 主程序下载  
 👉 [点击下载 KazeRelay 主程序](https://github.com/biefan/kazerelay/releases/download/1.0/KazeRelay.zip)  
 
 
