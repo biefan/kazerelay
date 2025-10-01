@@ -1,7 +1,9 @@
 # kazerelay
-kazerelay 使用教程
+# 🌌 kazereLay 使用教程
 
-专属OBS：https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip 
+专属 OBS 工具包：  
+👉 [立即下载](https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip)
+
 
 地区注意事项
 <img width="1164" height="1104" alt="image" src="https://github.com/user-attachments/assets/aee844c3-319d-4113-aa86-09cf24cb84e7" />
