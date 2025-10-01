@@ -26,6 +26,58 @@
 
 <div align="center">
 
+## 📦 快速下载
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🚀 Kaze Relay 主程序
+
+<a href="https://github.com/biefan/kazerelay/releases/download/1.0/KazeRelay.zip">
+<img src="https://img.shields.io/badge/下载主程序-v1.5.0-blueviolet?style=for-the-badge&logo=download&logoColor=white&labelColor=5C2D91" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/大小-~50MB-4A90E2?style=flat-square&logo=files&logoColor=white" />
+<img src="https://img.shields.io/badge/支持-Win10+-0078D6?style=flat-square&logo=windows&logoColor=white" />
+
+</td>
+<td width="50%" align="center">
+
+### 🛠️ 配套 OBS 工具包
+
+<a href="https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip">
+<img src="https://img.shields.io/badge/下载_OBS_工具包-推荐-0078D6?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=302E31" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/包含-OBS_Studio_优化版-4A90E2?style=flat-square&logo=checkmarx&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+### 📖 详细教程
+
+<a href="https://github.com/biefan/kazerelay/blob/main/jc.md">
+<img src="https://img.shields.io/badge/查看完整教程-00C853?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=00695C" />
+</a>
+
+<img src="https://img.shields.io/badge/快速上手-仅需5分钟-FF6B35?style=flat-square&logo=clockify&logoColor=white" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
 ## ✨ 核心特性
 
 <table>
@@ -86,49 +138,6 @@ SOCKS5 / HTTP 代理，支持认证
 
 <img src="https://img.shields.io/badge/-%E6%97%A5%E5%BF%97%E8%BF%BD%E8%B8%AA-F57C00?style=for-the-badge&logo=grafana&logoColor=white" /><br>
 完整的操作日志，便于排查
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-
-## 📦 资源下载
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🛠️ 专属 OBS 工具包
-
-<a href="https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip">
-<img src="https://img.shields.io/badge/下载_OBS_工具包-0078D6?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=302E31" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/包含-OBS_Studio_优化版-4A90E2?style=flat-square&logo=checkmarx&logoColor=white" />
-
-</td>
-<td width="50%" align="center">
-
-### 📖 详细教程
-
-<a href="https://github.com/biefan/kazerelay/blob/main/jc.md">
-<img src="https://img.shields.io/badge/查看完整教程-00C853?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=00695C" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/快速上手-5分钟-FF6B35?style=flat-square&logo=clockify&logoColor=white" />
 
 </td>
 </tr>
