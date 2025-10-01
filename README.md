@@ -36,6 +36,19 @@
 
 ---
 
+## 📦 资源下载
+
+### 专属 OBS 工具包
+👉 [立即下载](https://github.com/biefan/kazerelay/releases/download/1.0/OBS.zip)
+
+包含：
+- OBS Studio 优化版
+
+### 详细教程
+📖 [查看完整教程](https://github.com/biefan/kazerelay/blob/main/jc.md)
+
+---
+
 ## 🎬 快速开始
 
 ### 1. 添加账号
