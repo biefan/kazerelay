@@ -2,13 +2,13 @@
 
 # 🌊 Kaze Stream Manager
 
-### 企业级智能流媒体分发平台 | AI 驱动 · 全球部署 · 极致性能
+### 企业级智能流媒体分发平台 | 全球部署 · 极致性能
 
 <img src="https://img.shields.io/badge/🏆_行业领先-流媒体分发技术-FF0080?style=flat-square" />
 <img src="https://img.shields.io/badge/⚡_毫秒级-智能调度引擎-00D9FF?style=flat-square" />
 <img src="https://img.shields.io/badge/🌍_三大洲-全球节点覆盖-00C853?style=flat-square" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%8C%90+%E5%88%86%E5%B8%83%E5%BC%8F%E7%9F%A9%E9%98%B5+%7C+AI+%E9%A9%B1%E5%8A%A8+%7C+2000%2B+%E8%B4%A6%E5%8F%B7%E5%B9%B6%E5%8F%91;%E2%9A%A1+%E6%AF%AB%E7%A7%92%E7%BA%A7%E5%BB%B6%E8%BF%9F+%7C+%E4%BA%9A%E7%A7%92%E7%BA%A7%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2;%F0%9F%94%92+%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%89%E5%85%A8+%7C+ISO+27001+%7C+SOC+2;%F0%9F%8C%8D+%E4%B8%89%E5%A4%A7%E6%B4%B2%E8%8A%82%E7%82%B9+%7C+BGP+Anycast+%7C+%E6%99%BA%E8%83%BD%E8%B7%AF%E7%94%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%8C%90+%E5%88%86%E5%B8%83%E5%BC%8F%E7%9F%A9%E9%98%B5+%7C+1000%2B+%E8%B4%A6%E5%8F%B7%E5%B9%B6%E5%8F%91;%E2%9A%A1+%E6%AF%AB%E7%A7%92%E7%BA%A7%E5%BB%B6%E8%BF%9F+%7C+%E4%BA%9A%E7%A7%92%E7%BA%A7%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2;%F0%9F%94%92+%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%AE%89%E5%85%A8;%F0%9F%8C%8D+%E4%B8%89%E5%A4%A7%E6%B4%B2%E8%8A%82%E7%82%B9+%7C+BGP+Anycast+%7C+%E6%99%BA%E8%83%BD%E8%B7%AF%E7%94%B1" alt="Typing SVG" />
 
 ---
 
@@ -17,17 +17,13 @@
 [![Status](https://img.shields.io/badge/status-Active-00C853.svg?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 [![Version](https://img.shields.io/badge/version-v1.5.0-blueviolet.svg?style=for-the-badge&logo=semanticrelease&logoColor=white)]()
 
-[![Matrix](https://img.shields.io/badge/🌐_服务器矩阵-200~2000账号-FF0080.svg?style=for-the-badge&logo=serverfault&logoColor=white)]()
+[![Matrix](https://img.shields.io/badge/🌐_服务器矩阵-100~1000账号-FF0080.svg?style=for-the-badge&logo=serverfault&logoColor=white)]()
 [![Nodes](https://img.shields.io/badge/🌍_全球节点-新加坡·洛杉矶·法兰克福-00D9FF.svg?style=for-the-badge&logo=cloudflare&logoColor=white)]()
 [![OBS](https://img.shields.io/badge/OBS-28.0+-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)]()
 [![Performance](https://img.shields.io/badge/latency-%3C2s-brightgreen.svg?style=for-the-badge&logo=speedtest&logoColor=white)]()
 [![Memory](https://img.shields.io/badge/memory-%3C100MB-orange.svg?style=for-the-badge&logo=memory&logoColor=white)]()
 [![Uptime](https://img.shields.io/badge/uptime-99.9%25-success.svg?style=for-the-badge&logo=uptimerobot&logoColor=white)]()
 [![Enterprise](https://img.shields.io/badge/🏢_企业定制-联系我们-FFD700.svg?style=for-the-badge&logo=handshake&logoColor=white)]()
-[![ISO](https://img.shields.io/badge/ISO_27001-信息安全认证-9C27B0.svg?style=for-the-badge&logo=security&logoColor=white)]()
-[![SOC2](https://img.shields.io/badge/SOC_2_Type_II-合规认证-673AB7.svg?style=for-the-badge&logo=verified&logoColor=white)]()
-[![Encryption](https://img.shields.io/badge/AES_256-端到端加密-3F51B5.svg?style=for-the-badge&logo=lock&logoColor=white)]()
-[![AI](https://img.shields.io/badge/AI_Powered-智能调度-FF4081.svg?style=for-the-badge&logo=brain&logoColor=white)]()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&animation=twinkling&fontSize=0" />
 
@@ -114,8 +110,8 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-%E5%85%A8%E7%90%83%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7-FFD700?style=for-the-badge&logo=building&logoColor=white" />
 <br><br>
-<h2>3000+</h2>
-覆盖 50+ 国家和地区
+<h2>100+</h2>
+覆盖 15+ 国家和地区
 </td>
 </tr>
 </table>
@@ -147,7 +143,7 @@
 零配置部署 | RPA 自动化流程 | 智能参数优化
 
 <img src="https://img.shields.io/badge/-%E6%99%BA%E8%83%BD%E9%87%8D%E8%BF%9E-00C853?style=for-the-badge&logo=moleculer&logoColor=white" /><br>
-AI 预测式断线修复 | 亚秒级故障切换 | 零感知恢复
+智能断线修复 | 亚秒级故障切换 | 零感知恢复
 
 </td>
 <td width="50%" align="center">
@@ -177,7 +173,7 @@ QUIC 协议加速 | UDP 优化传输 | 端到端延迟 < 500ms
 7×24 云端守护 | 心跳检测 100ms | 故障切换 < 1s
 
 <img src="https://img.shields.io/badge/-%E8%B5%84%E6%BA%90%E5%8D%A0%E7%94%A8%E4%BD%8E-C2185B?style=for-the-badge&logo=cachet&logoColor=white" /><br>
-极简内核设计 | 单账号 < 100MB | 支持 10K+ 并发
+极简内核设计 | 单账号 < 100MB | 支持 1K+ 并发
 
 </td>
 <td width="50%" align="center">
@@ -185,7 +181,7 @@ QUIC 协议加速 | UDP 优化传输 | 端到端延迟 < 500ms
 ### 💼 企业级运维
 
 <img src="https://img.shields.io/badge/-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9F%A9%E9%98%B5%E6%8E%A8%E6%B5%81-FF9800?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>
-分布式集群架构 | 单节点 200 账号 | 弹性扩容至 2000+
+分布式集群架构 | 单节点 100 账号 | 弹性扩容至 1000+
 
 <img src="https://img.shields.io/badge/-%E6%8E%88%E6%9D%83%E7%B3%BB%E7%BB%9F-FF6F00?style=for-the-badge&logo=keycdn&logoColor=white" /><br>
 硬件绑定 | 多级权限管理
@@ -374,9 +370,8 @@ OBS 自动配置并开始推流
 </td>
 <td width="33%" align="center">
 
-### 🧠 AI 智能调度系统
+### 🧠 智能调度系统
 
-<img src="https://img.shields.io/badge/🤖-机器学习-FF6B35?style=for-the-badge&logo=ai&logoColor=white" />
 <img src="https://img.shields.io/badge/⚡-实时决策-EE4C2C?style=for-the-badge&logo=brain&logoColor=white" />
 <img src="https://img.shields.io/badge/🔮-智能预测-DC382D?style=for-the-badge&logo=crystal-ball&logoColor=white" />
 
@@ -413,9 +408,8 @@ OBS 自动配置并开始推流
 
 ### 🔐 企业级安全防护体系
 
-<img src="https://img.shields.io/badge/🛡️-企业级加密-9C27B0?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/🛡️-安全防护-9C27B0?style=for-the-badge&logo=shield&logoColor=white" />
 <img src="https://img.shields.io/badge/⚔️-智能防御-673AB7?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/🏆-国际认证-3F51B5?style=for-the-badge&logo=verified&logoColor=white" />
 
 <br><br>
 
@@ -424,9 +418,8 @@ OBS 自动配置并开始推流
 <td width="33%" valign="top">
 
 **🔒 传输层安全**
-- 🔐 端到端加密传输
+- 🔐 安全传输协议
 - 🛡️ 零信任安全架构
-- ⚡ 完美前向保密 (PFS)
 - 🔑 动态密钥管理
 
 </td>
@@ -435,7 +428,7 @@ OBS 自动配置并开始推流
 **🛡️ 应用层防护**
 - 🌊 智能流量清洗系统
 - ⚔️ Web 应用防火墙
-- 🎯 AI 威胁检测引擎
+- 🎯 威胁检测引擎
 - 🚀 自适应访问控制
 
 </td>
