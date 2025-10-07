@@ -14,6 +14,7 @@
 [![Version](https://img.shields.io/badge/version-v1.5.0-blueviolet.svg?style=for-the-badge&logo=semanticrelease&logoColor=white)]()
 
 [![Matrix](https://img.shields.io/badge/🌐_服务器矩阵-200~2000账号-FF0080.svg?style=for-the-badge&logo=serverfault&logoColor=white)]()
+[![Nodes](https://img.shields.io/badge/🌍_全球节点-新加坡·洛杉矶·法兰克福-00D9FF.svg?style=for-the-badge&logo=cloudflare&logoColor=white)]()
 [![OBS](https://img.shields.io/badge/OBS-28.0+-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)]()
 [![Performance](https://img.shields.io/badge/latency-%3C2s-brightgreen.svg?style=for-the-badge&logo=speedtest&logoColor=white)]()
 [![Memory](https://img.shields.io/badge/memory-%3C100MB-orange.svg?style=for-the-badge&logo=memory&logoColor=white)]()
@@ -108,8 +109,8 @@
 <img src="https://img.shields.io/badge/-%E4%BB%A3%E7%90%86%E6%94%AF%E6%8C%81-673AB7?style=for-the-badge&logo=protonvpn&logoColor=white" /><br>
 SOCKS5 / HTTP 代理，支持认证
 
-<img src="https://img.shields.io/badge/-%E5%A4%9A%E5%8C%BA%E5%9F%9F%E8%8A%82%E7%82%B9-3F51B5?style=for-the-badge&logo=cloudflare&logoColor=white" /><br>
-智能选择最优服务器，降低延迟
+<img src="https://img.shields.io/badge/-%E5%85%A8%E7%90%83%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2-3F51B5?style=for-the-badge&logo=cloudflare&logoColor=white" /><br>
+🇸🇬 新加坡 | 🇺🇸 洛杉矶 | 🇩🇪 法兰克福，就近接入
 
 </td>
 </tr>
@@ -233,6 +234,66 @@ OBS 自动配置并开始推流
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 企业版服务器矩阵快速部署 <img src="https://img.shields.io/badge/企业专属-FF0080?style=flat-square" />
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**1️⃣ 联系咨询**
+
+📧 enterprise@kazerelay.com
+
+提供需求和规模
+
+</td>
+<td width="25%" align="center">
+
+**2️⃣ 定制方案**
+
+🤝 24小时响应
+
+专属方案报价
+
+</td>
+<td width="25%" align="center">
+
+**3️⃣ 部署上线**
+
+⚡ 快速开通
+
+服务器配置完成
+
+</td>
+<td width="25%" align="center">
+
+**4️⃣ 批量推流**
+
+🚀 导入账号
+
+一键批量推流
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/💡_支持规模-200~2000账号-FF0080?style=for-the-badge&logo=grid&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_适用对象-MCN·电商·传媒·活动-FFD700?style=for-the-badge&logo=building&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=2" width="100%" />
 </div>
@@ -299,12 +360,13 @@ graph LR
 
 ```mermaid
 graph TB
-    A[多个 OBS] -->|批量推流| B[服务器矩阵]
-    B -->|账号1| C1[平台1]
-    B -->|账号2| C2[平台2]
-    B -->|账号N| C3[平台N]
+    A[单个 OBS] -->|推流| B[服务器矩阵]
+    B -->|分发| C1[账号1 - 平台A]
+    B -->|分发| C2[账号2 - 平台B]
+    B -->|分发| C3[账号N - 平台N]
     B -.->|最大支持| D[200个账号]
     B -.->|可定制| E[2000个账号]
+    B -.->|全球节点| F[新加坡/洛杉矶/法兰克福]
     style A fill:#FF6B6B
     style B fill:#FF0080
     style C1 fill:#95E1D3
@@ -312,15 +374,16 @@ graph TB
     style C3 fill:#95E1D3
     style D fill:#FFD700
     style E fill:#FFD700
+    style F fill:#00D9FF
 ```
 
 **核心优势**：
-- ⚡ **大规模并发**：单服务器支持最多 200 个账号同时推流
-- 🎯 **企业定制**：可定制支持高达 2000 个账号的矩阵方案
+- ⚡ **大规模并发**：单服务器矩阵支持最多 200 个账号同时推流
+- 🎯 **企业定制**：可定制支持高达 2000 个账号的超大规模矩阵方案
+- 🌍 **全球节点**：🇸🇬 新加坡 | 🇺🇸 洛杉矶 | 🇩🇪 法兰克福，就近接入降低延迟
 - 🔄 **智能分配**：自动负载均衡，优化资源利用率
-- 📊 **统一管理**：批量操作、实时监控、数据统计
-- 🛡️ **账号隔离**：每个账号独立会话，互不影响
-- 🌍 **多区域部署**：支持全球多节点分布式架构
+- 📊 **统一管理**：一个 OBS 控制多个账号，批量操作、实时监控
+- 🛡️ **账号隔离**：每个账号独立会话，互不影响，完全隔离
 
 </td>
 </tr>
@@ -378,6 +441,38 @@ Windows 10 及以上
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 服务器矩阵企业版配置要求
+
+<img src="https://img.shields.io/badge/推荐配置-企业级服务器-FF0080?style=for-the-badge&logo=server&logoColor=white" />
+
+<br><br>
+
+**200 账号配置**：16 核 CPU | 32GB+ 内存 | 1Gbps 带宽 | **2000 账号配置**：64 核 CPU | 128GB+ 内存 | 10Gbps 带宽
+
+**部署方式**：云端托管（推荐） / 私有化部署 | **操作系统**：Linux Server / Windows Server
+
+<br>
+
+**🌍 全球节点部署**：
+
+<img src="https://img.shields.io/badge/🇸🇬_新加坡-Asia_Pacific-00D9FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/🇺🇸_洛杉矶-North_America-4A90E2?style=for-the-badge&logo=aws&logoColor=white" />
+<img src="https://img.shields.io/badge/🇩🇪_法兰克福-Europe-00C853?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+**智能路由**：自动选择最近节点 | **延迟优化**：< 50ms 区域内延迟 | **容灾备份**：多节点热备
+
+<img src="https://img.shields.io/badge/💡_提示-服务器由我们提供和维护，客户端仅需标准配置-4A90E2?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <div align="center">
@@ -393,9 +488,10 @@ Windows 10 及以上
 <table>
 <thead>
 <tr>
-<th width="20%">特性</th>
-<th width="40%" align="center">☁️ 云端中继</th>
-<th width="40%" align="center">🖥️ 本地直推</th>
+<th width="15%">特性</th>
+<th width="28%" align="center">☁️ 云端中继</th>
+<th width="28%" align="center">🖥️ 本地直推</th>
+<th width="29%" align="center">🌐 服务器矩阵 <img src="https://img.shields.io/badge/NEW-FF0080?style=flat-square" /></th>
 </tr>
 </thead>
 <tbody>
@@ -407,6 +503,9 @@ Windows 10 及以上
 <td align="center">
 <img src="https://img.shields.io/badge/⭐⭐⭐⭐-C0C0C0?style=flat-square" />
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FF0080?style=flat-square" />
+</td>
 </tr>
 <tr>
 <td><b>延迟</b></td>
@@ -415,6 +514,9 @@ Windows 10 及以上
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐⭐⭐⭐-FF0080?style=flat-square" />
 </td>
 </tr>
 <tr>
@@ -425,6 +527,9 @@ Windows 10 及以上
 <td align="center">
 <img src="https://img.shields.io/badge/手动-FF5252?style=for-the-badge&logo=close&logoColor=white" />
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/智能自动-FF0080?style=for-the-badge&logo=robot&logoColor=white" />
+</td>
 </tr>
 <tr>
 <td><b>代理支持</b></td>
@@ -434,6 +539,9 @@ Windows 10 及以上
 <td align="center">
 <img src="https://img.shields.io/badge/❌_不支持-F44336?style=for-the-badge" />
 </td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_完全支持-FF0080?style=for-the-badge" />
+</td>
 </tr>
 <tr>
 <td><b>托管功能</b></td>
@@ -442,6 +550,81 @@ Windows 10 及以上
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/❌_不支持-F44336?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_企业级-FF0080?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td><b>账号规模</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/单账号-4ECDC4?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/单账号-FFA07A?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/200~2000账号-FF0080?style=for-the-badge&logo=grid&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>批量管理</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/❌_不支持-F44336?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/❌_不支持-F44336?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_统一管理-FF0080?style=for-the-badge&logo=dashboard&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>负载均衡</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/基础-4ECDC4?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/❌_无-F44336?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/✅_智能分配-FF0080?style=for-the-badge&logo=balance-scale&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>适用场景</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/个人主播-4ECDC4?style=for-the-badge&logo=user&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/低延迟需求-FFA07A?style=for-the-badge&logo=zap&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/MCN机构_·_企业-FF0080?style=for-the-badge&logo=building&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>全球节点</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/基础节点-4ECDC4?style=for-the-badge&logo=cloud&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/本地网络-FFA07A?style=for-the-badge&logo=network-wired&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_新加坡·洛杉矶·法兰克福-FF0080?style=for-the-badge&logo=earth&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>价格定位</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/标准版-4ECDC4?style=for-the-badge&logo=tag&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/基础版-FFA07A?style=for-the-badge&logo=tag&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/企业定制-FF0080?style=for-the-badge&logo=diamond&logoColor=white" />
 </td>
 </tr>
 </tbody>
@@ -691,8 +874,74 @@ Windows 10 及以上
 <br>
 
 **A:**
-- 如果需要稳定性和自动恢复，选择 **云端中继**
-- 如果追求极致延迟，选择 **本地直推**
+- **个人主播/小规模**：如果需要稳定性和自动恢复，选择 **云端中继**；如果追求极致延迟，选择 **本地直推**
+- **MCN机构/企业级**：推荐使用 **服务器矩阵**，支持 200-2000 个账号统一管理，提供智能负载均衡和企业级托管服务
+
+</details>
+
+<details>
+<summary><b>🌐 Q: 什么是服务器矩阵？有什么优势？</b></summary>
+
+<br>
+
+**A:** 
+服务器矩阵是我们为企业级用户打造的批量推流解决方案：
+
+**核心优势：**
+- 📊 **大规模并发**：单服务器支持 200 个账号，定制版可达 2000 个
+- 🎯 **统一管理**：一站式批量操作、实时监控、数据统计
+- 🔄 **智能调度**：自动负载均衡，优化资源利用率
+- 🛡️ **高可用性**：云端容灾，99.9% 在线率
+- 🔐 **完全隔离**：每个账号独立会话，支持代理
+- 🌍 **全球节点**：新加坡、洛杉矶、法兰克福三大节点，覆盖全球主要区域
+
+**适用场景：** MCN 机构、电商直播、传媒公司、大型活动等
+
+</details>
+
+<details>
+<summary><b>🌍 Q: 全球节点有什么作用？如何选择？</b></summary>
+
+<br>
+
+**A:** 
+我们在全球部署了三大战略节点，确保全球用户都能获得最优推流体验：
+
+**节点分布：**
+- 🇸🇬 **新加坡节点**：覆盖亚太地区（日本、韩国、东南亚、澳洲）
+- 🇺🇸 **洛杉矶节点**：覆盖北美地区（美国、加拿大、墨西哥）
+- 🇩🇪 **法兰克福节点**：覆盖欧洲地区（欧盟各国、中东、非洲）
+
+**智能选择：**
+- 🎯 系统会根据您的目标平台自动选择最近节点
+- ⚡ 区域内延迟 < 50ms，确保推流稳定流畅
+- 🔄 支持节点间负载均衡和故障自动切换
+
+**专业优势：**
+- 🏢 企业级 BGP 多线接入，多运营商优化
+- 🛡️ DDoS 防护和流量清洗，保障推流安全
+- 📊 实时监控节点状态，智能路由优化
+
+</details>
+
+<details>
+<summary><b>💼 Q: 如何申请服务器矩阵服务？</b></summary>
+
+<br>
+
+**A:** 
+服务器矩阵为企业定制服务，申请流程如下：
+
+1. 📧 发送邮件至 **enterprise@kazerelay.com**，注明：
+   - 公司名称和规模
+   - 预计账号数量（200/500/1000/2000）
+   - 业务场景描述
+   
+2. 🤝 我们的企业服务团队会在 24 小时内联系您
+3. 📋 根据您的需求提供定制化方案和报价
+4. ✅ 签约后即可开通专属矩阵服务器
+
+**咨询热线**：联系我们获取企业定制方案
 
 </details>
 
@@ -701,7 +950,7 @@ Windows 10 及以上
 
 <br>
 
-**A:** 使用代理可以实现 IP 隔离，避免多账号关联风险，提升账号安全性。
+**A:** 使用代理可以实现 IP 隔离，避免多账号关联风险，提升账号安全性。服务器矩阵完全支持 SOCKS5/HTTP 代理配置，每个账号可配置独立代理。
 
 </details>
 
@@ -717,7 +966,7 @@ Windows 10 及以上
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://img.shields.io/badge/官方网站-kazerelay.com-4ECDC4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
@@ -726,7 +975,7 @@ Windows 10 及以上
 🌐 [kazerelay.com](https://kazerelay.com/)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://img.shields.io/badge/技术支持-support-00C853?style=for-the-badge&logo=googlechat&logoColor=white" />
 
@@ -735,13 +984,42 @@ Windows 10 及以上
 📧 support@kazerelay.com
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 <img src="https://img.shields.io/badge/问题反馈-feedback-FF6B35?style=for-the-badge&logo=hackthebox&logoColor=white" />
 
 <br>
 
 💬 feedback@kazerelay.com
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🏢_企业定制-矩阵服务-FF0080?style=for-the-badge&logo=briefcase&logoColor=white" />
+
+<br>
+
+💼 enterprise@kazerelay.com
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 企业服务器矩阵咨询
+
+<img src="https://img.shields.io/badge/MCN机构-企业级推流解决方案-FF0080?style=for-the-badge&logo=buildings&logoColor=white" />
+
+<br><br>
+
+**📊 支持规模**：200 ~ 2000 账号 | **⚡ 响应时间**：24 小时内 | **🎯 定制方案**：一对一服务
+
+**咨询邮箱**：enterprise@kazerelay.com | **服务对象**：MCN 机构、电商直播、传媒公司、大型活动
 
 </td>
 </tr>
