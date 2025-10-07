@@ -96,13 +96,13 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-%E6%97%A5%E5%9D%87%E5%A4%84%E7%90%86%E6%B5%81%E9%87%8F-FF0080?style=for-the-badge&logo=trending-up&logoColor=white" />
 <br><br>
-<h2>5+ PB</h2>
+<h2>10 TB</h2>
 全球每日数据吞吐量
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-%E5%B9%B6%E5%8F%91%E6%8E%A8%E6%B5%81%E5%B3%B0%E5%80%BC-00D9FF?style=for-the-badge&logo=activity&logoColor=white" />
 <br><br>
-<h2>50K+</h2>
+<h2>1000</h2>
 同时在线账号数
 </td>
 <td align="center" width="25%">
