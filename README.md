@@ -130,8 +130,8 @@ SOCKS5 / HTTP 代理，支持认证
 
 ### 💼 企业级管理
 
-<img src="https://img.shields.io/badge/-%E5%A4%9A%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86-FF9800?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>
-支持批量操作，统一监控
+<img src="https://img.shields.io/badge/-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9F%A9%E9%98%B5%E6%8E%A8%E6%B5%81-FF9800?style=for-the-badge&logo=apachekafka&logoColor=white" /><br>
+服务器最大支持200个账号，可定制2000账号
 
 <img src="https://img.shields.io/badge/-%E6%8E%88%E6%9D%83%E7%B3%BB%E7%BB%9F-FF6F00?style=for-the-badge&logo=keycdn&logoColor=white" /><br>
 安全的许可证管理机制
