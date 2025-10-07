@@ -4,7 +4,7 @@
 
 ### 专业级直播流管理解决方案
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+%E6%99%BA%E8%83%BD%E6%8E%A8%E6%B5%81+%7C+%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E+%7C+%E4%BA%91%E7%AB%AF%E6%89%98%E7%AE%A1;%F0%9F%94%92+%E8%B4%A6%E5%8F%B7%E9%9A%94%E7%A6%BB+%7C+%E4%BB%A3%E7%90%86%E6%94%AF%E6%8C%81+%7C+%E5%A4%9A%E5%8C%BA%E5%9F%9F%E8%8A%82%E7%82%B9;%F0%9F%9A%80+%E4%BD%8E%E5%BB%B6%E8%BF%9F%E4%BC%A0%E8%BE%93+%7C+%E4%BC%81%E4%B8%9A%E7%BA%A7%E7%AE%A1%E7%90%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%8C%90+%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9F%A9%E9%98%B5+%7C+200%E8%B4%A6%E5%8F%B7+%7C+%E5%8F%AF%E5%AE%9A%E5%88%B62000;%E2%9A%A1+%E6%99%BA%E8%83%BD%E6%8E%A8%E6%B5%81+%7C+%E8%87%AA%E5%8A%A8%E9%87%8D%E8%BF%9E+%7C+%E4%BA%91%E7%AB%AF%E6%89%98%E7%AE%A1;%F0%9F%94%92+%E8%B4%A6%E5%8F%B7%E9%9A%94%E7%A6%BB+%7C+%E4%BB%A3%E7%90%86%E6%94%AF%E6%8C%81+%7C+%E5%A4%9A%E5%8C%BA%E5%9F%9F%E8%8A%82%E7%82%B9" alt="Typing SVG" />
 
 ---
 
@@ -13,10 +13,12 @@
 [![Status](https://img.shields.io/badge/status-Active-00C853.svg?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 [![Version](https://img.shields.io/badge/version-v1.5.0-blueviolet.svg?style=for-the-badge&logo=semanticrelease&logoColor=white)]()
 
+[![Matrix](https://img.shields.io/badge/🌐_服务器矩阵-200~2000账号-FF0080.svg?style=for-the-badge&logo=serverfault&logoColor=white)]()
 [![OBS](https://img.shields.io/badge/OBS-28.0+-302E31.svg?style=for-the-badge&logo=obsstudio&logoColor=white)]()
 [![Performance](https://img.shields.io/badge/latency-%3C2s-brightgreen.svg?style=for-the-badge&logo=speedtest&logoColor=white)]()
 [![Memory](https://img.shields.io/badge/memory-%3C100MB-orange.svg?style=for-the-badge&logo=memory&logoColor=white)]()
 [![Uptime](https://img.shields.io/badge/uptime-99.9%25-success.svg?style=for-the-badge&logo=uptimerobot&logoColor=white)]()
+[![Enterprise](https://img.shields.io/badge/🏢_企业定制-联系我们-FFD700.svg?style=for-the-badge&logo=handshake&logoColor=white)]()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&animation=twinkling&fontSize=0" />
 
@@ -288,6 +290,40 @@ graph LR
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 服务器矩阵推流 <img src="https://img.shields.io/badge/NEW-企业级-FF0080?style=flat-square&logo=star&logoColor=white" />
+
+<img src="https://img.shields.io/badge/推荐指数-⭐⭐⭐⭐⭐-FF0080?style=for-the-badge" />
+
+```mermaid
+graph TB
+    A[多个 OBS] -->|批量推流| B[服务器矩阵]
+    B -->|账号1| C1[平台1]
+    B -->|账号2| C2[平台2]
+    B -->|账号N| C3[平台N]
+    B -.->|最大支持| D[200个账号]
+    B -.->|可定制| E[2000个账号]
+    style A fill:#FF6B6B
+    style B fill:#FF0080
+    style C1 fill:#95E1D3
+    style C2 fill:#95E1D3
+    style C3 fill:#95E1D3
+    style D fill:#FFD700
+    style E fill:#FFD700
+```
+
+**核心优势**：
+- ⚡ **大规模并发**：单服务器支持最多 200 个账号同时推流
+- 🎯 **企业定制**：可定制支持高达 2000 个账号的矩阵方案
+- 🔄 **智能分配**：自动负载均衡，优化资源利用率
+- 📊 **统一管理**：批量操作、实时监控、数据统计
+- 🛡️ **账号隔离**：每个账号独立会话，互不影响
+- 🌍 **多区域部署**：支持全球多节点分布式架构
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -455,6 +491,40 @@ Windows 10 及以上
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🌐 适合服务器矩阵的场景 <img src="https://img.shields.io/badge/企业首选-FF0080?style=flat-square&logo=rocket&logoColor=white" />
+
+<img src="https://img.shields.io/badge/推荐场景-服务器矩阵-FF0080?style=for-the-badge&logo=server&logoColor=white" />
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🏢 企业级应用
+- 💼 **MCN 机构**：管理大量主播账号
+- 🎯 **电商直播**：多店铺同时直播
+- 📺 **传媒公司**：多平台内容分发
+- 🎬 **活动直播**：大型活动多机位推流
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 技术优势场景
+- 📊 **批量运营**：支持 200-2000 个账号
+- 🔄 **自动化管理**：统一调度和监控
+- 🛡️ **高可用性**：云端容灾，99.9% 在线率
+- 📈 **弹性扩容**：根据业务需求灵活定制
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -516,10 +586,16 @@ Windows 10 及以上
 </div>
 
 <details open>
-<summary><b>🔥 v1.5.0 (2025-10)</b></summary>
+<summary><b>🔥 v1.5.0 (2025-10-07)</b></summary>
 
 <br>
 
+- 🌐 **重磅功能**：新增服务器矩阵推流支持
+  - ⚡ 单服务器最大支持 200 个账号同时推流
+  - 🎯 企业定制版可支持高达 2000 个账号
+  - 📊 提供统一的批量管理和实时监控
+  - 🔄 智能负载均衡，自动优化资源分配
+- ✨ 优化企业级账号管理功能
 - 🐛 修复云端中继创建失败时的误判问题
 - 🐛 修复模式切换时标记未正确清除的问题
 - ✨ 优化错误提示信息，更准确的问题定位
